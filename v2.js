@@ -1,11 +1,9 @@
 const Discord = require("discord.js");
 const axios = require("axios");
-const lib = require("./libs/KB0T-v2.js");
 const client = new Discord.Client();
 const util = require("./utility.js");
 const fs = require("fs");
-const p = "$"; // Prefix
-const { token, etc } = require("./config.json");
+const { token, p } = require("./config.json");
 const cmd_dir = "./commands/"; // Commands
 
 client.once('ready', () => {
