@@ -11,3 +11,4 @@ axios (```npm i axios```)<br>
 discord.js (```npm i discord.js```)
 
 # TROUBLESHOOTING
+I Will NOT Explain It Here, Visit https://github.com/MincoMK/KB0T/blob/Default/TROUBLESHOOTING.md
