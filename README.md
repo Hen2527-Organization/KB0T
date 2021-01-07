@@ -9,3 +9,5 @@ Minco's Dynamic Discord Bot Made Using Discord.js
 fs (Nothing Need To Install)<br>
 axios (```npm i axios```)<br>
 discord.js (```npm i discord.js```)
+
+# TROUBLESHOOTING
