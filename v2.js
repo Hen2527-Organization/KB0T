@@ -3,7 +3,8 @@ const axios = require("axios");
 const client = new Discord.Client();
 const util = require("./utility.js");
 const fs = require("fs");
-const { token, p } = require("./config.json");
+const { token, prefix } = require("./config.json");
+const p = prefix;
 const cmd_dir = "./commands/"; // Commands
 
 client.once('ready', () => {
