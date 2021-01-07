@@ -9,4 +9,6 @@ First, Remove NPM, Node.js
 sudo rm -R /usr/local/bin/node
 sudo rm -R /use/local/bin/npm
 ```
-Visit [Here](https://nodejs.org/en/download/)
+
+Second, Visit [Here](https://nodejs.org/en/download/)
+Install Node.js (For Terminal, Visit )
