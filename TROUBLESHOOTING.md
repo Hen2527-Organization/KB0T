@@ -11,4 +11,4 @@ sudo rm -R /use/local/bin/npm
 ```
 
 Second, Visit [Here](https://nodejs.org/en/download/)
-Install Node.js (For Terminal, Visit )
+Install Node.js (For Terminal, Visit [Here](https://github.com/MincoMK/KB0T/blob/Default/TERMINAL.md))
