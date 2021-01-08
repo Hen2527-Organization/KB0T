@@ -13,5 +13,7 @@ sudo rm -R /use/local/bin/npm
 Second, Visit [Here](https://nodejs.org/en/download/)
 Install Node.js (For Terminal, Visit [Here](https://github.com/MincoMK/KB0T/blob/Default/TERMINAL.md#installing-nodejs))
 And Re-Run Command. (```npm i discord.js```)
+## Second, Re-Test
+Just Do It!
 
 Third, If You Got Problem Here Too, Visit [Here](https://github.com/MincoMK/KB0T/blob/Default/FIXING.md)
