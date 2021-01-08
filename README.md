@@ -10,7 +10,7 @@ And Plz [JOIN OUR DISCORD](https://discord.gg/quaKY62tuZ)!!!
 fs (Nothing Need To Install)<br>
 axios (```npm i axios```)<br>
 discord.js (```npm i discord.js```)<br>
-[Join Our Discord](https://discord.gg/quaKY62tuZ) (Visit Here).
+[Join Our Discord](https://discord.gg/Y4WaceJXVN) (Visit Here).
 
 # TROUBLESHOOTING
 I Will NOT Explain It Here, Visit [Here](https://github.com/MincoMK/KB0T/blob/Default/TROUBLESHOOTING.md)
